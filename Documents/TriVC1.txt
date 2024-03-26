@@ -1,0 +1,60 @@
+C programing Interview Question
+Beginner Level
+1. What are the basic datatypes supported in C programming language ?
+2. What do you mean by a Pointer Variable?
+3. What do you mean by Scope of the Variable?
+4. What are Static variables and functions?
+5. Differentiate between calloc() and malloc()?
+6. Where can we apply break control statement?
+7. How can a negative integer be stored?
+8. Differentiate between Actual and Formal parameters?
+9. Can I compile C program without main()?
+10. What is a Nested Structure?
+11. What is a C Token?
+12. What is a PreProcessor?
+13. How is C the Mother of all Languages?
+14. Mention the Features of C programming language?
+15. What is the use of printf() and scanf()?
+16. What is an Array?
+17. What is /0 character?
+18. Differentiate between Compiler and Interpreter?
+19. Can I use int datatype to store 32768 value?
+Intermediate Level
+20. How is a Function declared in C language?
+21. What is Dynamic Memory Allocation? Mention its syntax.
+22. Where can we not use &(address operator) in C?
+23. Write an example for structure in C language?
+24. Difference between CallByValue and CallByReference?
+25. Differentiate between getch() and getche()?
+26. Explain toupper with an example?
+27. Write a simple code to generate random numbers in C?
+28. Can I create customized header file in C?
+29. What do you mean by Memory Leak?
+30. Explain Static Local Variables and what is their use?
+31. Differentiate between declaring header file with <> and “”?
+32. When should we use register storage specifier?
+33. Which statement is efficient and why? x=x+1 / x++
+34. Can I declare same variable in to different scopes?
+35. How to access member of a Union of Pointer type?
+36. Mention File operation in C language
+37. What are the different Storage Class Specifiers in C?
+38. What is Typecasting?
+39. Explain Dangling pointer in C language
+40. Swap to numbers without using third variable
+Advanced Level
+41. Print a String with a % symbol in it
+42. Write the code to print the following pattern
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+43. Explain #Pragma Directive.
+44. How to remove duplicates in an array
+45. Explain Bubble sort with Program.
+46. Explain Round Robbin Algorithm with example.
+47. How do I link Program with Operating System?
+48. How to avoid the limitation of scanf()
+49. Differentiate between Macros and Functions
+Suppose a global variable and local variable have the same name. Is it being possible to access a global variable from a block where local variable are define?
