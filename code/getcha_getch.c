@@ -1,13 +1,12 @@
 #include <stdio.h>
-#include <conio.h>
+#include <stdlib.h>
+#include <string.h>
 
-int main(){
-
-    char a;
-    char b;
-    a = getch();
-    b = getche();
-    // printf("%c", a);
-
-    return 0;
+int main()
+{
+    int i=0, ii=-1;
+    if (i>ii){
+        printf("mi pass");
+    }
+    else{ printf("cook");}
 }
